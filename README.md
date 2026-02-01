@@ -1,4 +1,4 @@
-# 🌍 Express Translator — Copy/Paste Tutorial (Express.js + Nodemon)
+# 🌍 Express Translator  (Express.js + Nodemon)
 
 Welcome, Agent Linguist. Your mission: build a **Translator Website** using:
 - ✅ Express.js (server)
